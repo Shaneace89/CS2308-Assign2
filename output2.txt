@@ -1,0 +1,175 @@
+Manage Inventory Menu
+
+1. Add product
+2. Remove product
+3. Adjust quantity of a product
+4. Display a product
+5. Display inventory sorted by product name
+6. Quit the Program
+
+Enter your choice: 1
+
+Enter the new product name: 
+iPhone 3GS
+Enter the locator (no spaces): 
+Box1
+Enter the quantity (0 or more): 
+3
+Enter the price (greater than 0) : 
+99.95
+
+
+Manage Inventory Menu
+
+1. Add product
+2. Remove product
+3. Adjust quantity of a product
+4. Display a product
+5. Display inventory sorted by product name
+6. Quit the Program
+
+Enter your choice: 1
+
+Enter the new product name: 
+Samsung Captivate
+Enter the locator (no spaces): 
+Box2
+Enter the quantity (0 or more): 
+10
+Enter the price (greater than 0) : 
+11.89
+
+
+Manage Inventory Menu
+
+1. Add product
+2. Remove product
+3. Adjust quantity of a product
+4. Display a product
+5. Display inventory sorted by product name
+6. Quit the Program
+
+Enter your choice: 1
+
+Enter the new product name: 
+Blackberry Bold
+Enter the locator (no spaces): 
+Box1
+Enter the quantity (0 or more): 
+1
+Enter the price (greater than 0) : 
+40.50
+
+
+Manage Inventory Menu
+
+1. Add product
+2. Remove product
+3. Adjust quantity of a product
+4. Display a product
+5. Display inventory sorted by product name
+6. Quit the Program
+
+Enter your choice: 5
+
+      Box1     1    40.50 Blackberry Bold
+      Box2    10    11.89 Samsung Captivate
+      Box1     3    99.95 iPhone 3GS
+
+Manage Inventory Menu
+
+1. Add product
+2. Remove product
+3. Adjust quantity of a product
+4. Display a product
+5. Display inventory sorted by product name
+6. Quit the Program
+
+Enter your choice: 4
+Enter product name of product to find: Blackberry Bold
+
+product name: Blackberry Bold
+locator: Box1
+quantity: 1
+price: 40.50
+
+Manage Inventory Menu
+
+1. Add product
+2. Remove product
+3. Adjust quantity of a product
+4. Display a product
+5. Display inventory sorted by product name
+6. Quit the Program
+
+Enter your choice: 2
+Enter product name of product to remove: iPhone 3GS
+Removed product with product name: iPhone 3GS
+
+Manage Inventory Menu
+
+1. Add product
+2. Remove product
+3. Adjust quantity of a product
+4. Display a product
+5. Display inventory sorted by product name
+6. Quit the Program
+
+Enter your choice: 5
+
+      Box1     1    40.50 Blackberry Bold
+      Box2    10    11.89 Samsung Captivate
+
+Manage Inventory Menu
+
+1. Add product
+2. Remove product
+3. Adjust quantity of a product
+4. Display a product
+5. Display inventory sorted by product name
+6. Quit the Program
+
+Enter your choice: 2
+Enter product name of product to remove: iPad Air
+No product found with this product name. 
+
+
+Manage Inventory Menu
+
+1. Add product
+2. Remove product
+3. Adjust quantity of a product
+4. Display a product
+5. Display inventory sorted by product name
+6. Quit the Program
+
+Enter your choice: 3
+Enter product name of product to modify: Blackberry Bold
+Enter desired change to quantity (use negative value to decrease quantity)
+3
+
+Manage Inventory Menu
+
+1. Add product
+2. Remove product
+3. Adjust quantity of a product
+4. Display a product
+5. Display inventory sorted by product name
+6. Quit the Program
+
+Enter your choice: 5
+
+      Box1     4    40.50 Blackberry Bold
+      Box2    10    11.89 Samsung Captivate
+
+Manage Inventory Menu
+
+1. Add product
+2. Remove product
+3. Adjust quantity of a product
+4. Display a product
+5. Display inventory sorted by product name
+6. Quit the Program
+
+Enter your choice: 6
+Exiting the program.

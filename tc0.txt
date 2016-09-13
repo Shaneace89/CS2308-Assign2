@@ -1,0 +1,122 @@
+/* INPUT VALUES: */
+
+1
+GoogleNexus7
+GN7862
+17
+89.99
+1
+IPhone6
+725365
+5
+349.99
+1
+MacbookAir
+268748
+12
+599.00
+5
+6
+
+/* EXPECTED OUTPUT:
+
+All of the adds should succeed, then the table is output:
+(columns in any order, the values should line up in columns)
+
+    GN7862    17    89.99 GoogleNexus7
+    725365     5   349.99 IPhone6
+    268748    12   599.00 MacbookAir
+
+Detailed output:
+
+Manage Inventory Menu
+
+1. Add product
+2. Remove product
+3. Adjust quantity of a product
+4. Display a product
+5. Display inventory sorted by product name
+6. Quit the Program
+
+Enter your choice: 1
+
+Enter the new product name: 
+GoogleNexus7
+Enter the locator (no spaces): 
+GN7862
+Enter the quantity (0 or more): 
+17
+Enter the price (greater than 0) : 
+89.99
+
+
+Manage Inventory Menu
+
+1. Add product
+2. Remove product
+3. Adjust quantity of a product
+4. Display a product
+5. Display inventory sorted by product name
+6. Quit the Program
+
+Enter your choice: 1
+
+Enter the new product name: 
+IPhone6
+Enter the locator (no spaces): 
+725365
+Enter the quantity (0 or more): 
+5
+Enter the price (greater than 0) : 
+349.99
+
+
+Manage Inventory Menu
+
+1. Add product
+2. Remove product
+3. Adjust quantity of a product
+4. Display a product
+5. Display inventory sorted by product name
+6. Quit the Program
+
+Enter your choice: 1
+
+Enter the new product name: 
+MacbookAir
+Enter the locator (no spaces): 
+268748
+Enter the quantity (0 or more): 
+12
+Enter the price (greater than 0) : 
+599.00
+
+
+Manage Inventory Menu
+
+1. Add product
+2. Remove product
+3. Adjust quantity of a product
+4. Display a product
+5. Display inventory sorted by product name
+6. Quit the Program
+
+Enter your choice: 5
+
+    GN7862    17    89.99 GoogleNexus7
+    725365     5   349.99 IPhone6
+    268748    12   599.00 MacbookAir
+
+Manage Inventory Menu
+
+1. Add product
+2. Remove product
+3. Adjust quantity of a product
+4. Display a product
+5. Display inventory sorted by product name
+6. Quit the Program
+
+Enter your choice: 6
+Exiting the program.
+
+*/
